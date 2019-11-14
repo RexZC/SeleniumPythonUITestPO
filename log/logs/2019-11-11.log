@@ -1,0 +1,5 @@
+2019-11-11 19:55:07,942 user_log.py----> <module> 10: DEBUG ---->输入数据
+2019-11-11 22:07:33,598 user_log.py----> <module> 10: DEBUG ---->12343
+2019-11-11 22:16:31,857 user_log.py----> <module> 20: INFO ---->12343
+2019-11-11 23:01:43,681 unittest_case.py----> setUp 20: INFO ---->this is Chrome
+2019-11-11 23:02:00,798 unittest_case.py----> setUp 20: INFO ---->this is Chrome
